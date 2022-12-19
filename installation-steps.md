@@ -84,7 +84,7 @@ EOF
 ##### Start mysql to join the cluster
 ```
 systemctl start mysql
-
+```
 
 ### On Third node
 ##### Add Percona Repository
